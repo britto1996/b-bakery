@@ -1,0 +1,119 @@
+
+
+#title {
+    background-color: red;
+}
+
+.row {
+    line-height: 1;
+    padding: 5% 5% 0% 5%;
+}
+
+.download-button {
+    margin: 15px 10px 0px 10px;
+}
+
+.avengers-food {
+    width: 100%;
+    padding: 10px 0px 15px 2px;
+}
+
+.food-heading {
+    font-size: 70px;
+    color: white;
+}
+
+.play-icon {
+    padding: 0px 5px 0px 5px;
+}
+
+.apple-icon {
+    padding: 0px 5px 0px 5px;
+}
+
+.brand-name {
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+.brand-logo {
+    width: 10%;
+    padding: 0px 0px 0px 30px;
+    opacity: 0.1;
+}
+
+.contact,
+.price,
+.download {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    margin: 10px 0px 0px 150px;
+
+}
+
+#features {
+  text-align: center;
+  padding: 10px 5px 2px 10px;
+}
+
+#testimonials {
+  background-color: orange;
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+  color: white;
+  
+}
+
+.testimonial-head {
+  font-size: 50px;
+}
+
+#press {
+  text-align: center;
+  background-color: orange;
+  padding: 10px 5px 10px 5px;
+  
+}
+
+.tc-logo,
+.tnw-logo,
+.biz-insider-logo,
+.mashable-logo{
+  padding: 10px 5px 10px 5px;
+}
+
+
+#pricing {
+  padding: 40px 10px 40px 10px;
+}
+
+
+.pricing-header,
+.pricing-para {
+     text-align: center; 
+}
+
+.food-header,
+.food-title,
+.food-text {
+  text-align: center;
+}
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 20px 5px 20px 5px;
+  color: white;
+  
+}
+
+.cta-header {
+  width: 100%;
+  font-size: 40px;
+}
+
+#footer {
+  padding: 25px 5px 25px 5px;
+  text-align: center;
+}
